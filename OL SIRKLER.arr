@@ -56,3 +56,4 @@ fun velg_farge(farge, flagg):
   else: 
   raise("Feilmelding!") 
   end
+end
